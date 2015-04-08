@@ -1,2 +1,2 @@
 # Hello-Bootstrap-Compass
-A basic project template system for creating web-apps powered by Bootstrap/Compass.
+> Hello-Bootstrap-Compass is a Compass-powered version of Bootstrap, ready to drop right into your Compass powered applications.
