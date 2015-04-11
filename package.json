@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "hello-bootstrap-compass",
   "version": "1.0.0",
-  "description": "basic project template for creating web-apps!",
+  "description": "A basic project template system for creating web-apps.",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "^0.4.5"
