@@ -6,11 +6,16 @@ module.exports = {
 			'<%= config.tmp %>/styles/global.min.css': ['<%= config.tmp %>/autoprefix/*.css']
 		}
 	},
+	dev: {
+		files: {
+			'<%= config.tmp %>/styles/vendor.min.css': ['<%= config.dev %>/styles/css/vendors/*.css']
+		}
+	},
 	vendor: {
 		files: {
 			'<%= config.tmp %>/styles/vendor.min.css':
 			[
-			'bower_components/animsition/dist/css/animsition.css'
+				'bower_components/animsition/dist/css/animsition.min.css'
 			]
 		}
 	}
