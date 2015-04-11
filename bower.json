@@ -1,11 +1,11 @@
 {
-  "name": "hello-world",
+  "name": "hello-bootstrap-compass",
   "version": "0.0.0",
   "homepage": "https://github.com/KazuoYanagimoto/Hello-World",
   "authors": [
     "kazuoyanagimoto <kazuo.yanagimoto@gmail.com>"
   ],
-  "description": "a basic project template for creating web-app.",
+  "description": "A basic project template system for creating web-apps by Compass-powered version of Bootstrap.",
   "keywords": [
     "hello",
     "world"
